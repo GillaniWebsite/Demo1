@@ -389,12 +389,12 @@
         <div>
           <div class="eyebrow">Get in touch</div>
           <h2>Have a brief? <em>Let's look at it.</em></h2>
-          <a class="contact-link" href="mailto:hello@gillanidesign.com">sghazanfargillani@gmail.com →</a>
+          <a class="contact-link" href="mailto:sghazanfargillani@gmail.com">sghazanfargillani@gmail.com →</a>
         </div>
         <div class="socials">
-          <a href="#">Instagram</a>
-          <a href="#">LinkedIn</a>
-          <a href="#">Dribbble</a>
+          <a href="#contact">Instagram</a>
+          <a href="#contact">LinkedIn</a>
+          <a href="#contact">Dribbble</a>
         </div>
       </div>
     </div>
